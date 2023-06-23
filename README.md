@@ -7,7 +7,7 @@ My nickname is New, and I graduated in computer science from Naresuan University
 
 I've been learning React.js for Front-end Web
 
-* 🌍  I'm based in Nakhonsawan , Thailand
+* 🌍  I'm based in Chiang mai , Thailand
 * ✉️  You can contact me at [newza\_8888@hotmail.com](mailto:newza_8888@hotmail.com)
 
 ### Skills
