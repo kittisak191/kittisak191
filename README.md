@@ -5,9 +5,9 @@ My nickname is New, and I graduated in computer science from Naresuan University
 
 ------------------------------------------------------------------------
 
-I've been learning React.js for Front-end Web
+I'm a Full Stack Developer with experience in React, Redux, and Golang. I'm learning Golang for Back-end to expand my skills in building full-stack applications
 
-* 🌍  I'm based in Chiang mai , Thailand
+* 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at [newza\_8888@hotmail.com](mailto:newza_8888@hotmail.com)
 
 ### Skills
